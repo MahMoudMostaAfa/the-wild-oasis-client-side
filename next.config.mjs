@@ -1,4 +1,12 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
 
-export default nextConfig;
+export const images = {
+  remotePatterns: [
+    {
+      protocol: "https",
+      hostname: "iaiadlibxklcwhnjeabg.supabase.co",
+      port: "",
+      pathname: "/storage/v1/object/public/cabins-imgs/**",
+    },
+  ],
+};

@@ -1,4 +1,5 @@
 # Wild-oasis-client-side
+![Project Screenshot](./screenshot.png) <!-- Add a screenshot of the project -->
 Welcome to wild-oasis project! This is a React-based web application for a cabins mangement. The project demonstrates advanced usage of Next js[App Router], Auth js, UI state with context API ,styling with tailwind css and Supabase for backend service .
 # Features
 - Cabins preview and reservations: create , updating and delete reservation.
